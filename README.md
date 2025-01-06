@@ -13,7 +13,7 @@ This project implements a Sinhala spell and grammar checker powered by AI, desig
 
 Below is an image of the interface for the Sinhala spell and grammar checker:
 
-![Interface Image](Screenshot 2025-01-06 at 16.10.06.png)
+![Interface Image](https://github.com/chamarac99/Sinhala-Spell-and-Grammer-Checker-AI-based/blob/f88eb60339e6e1439260ef1726175fd3096ec85c/Screenshot%202025-01-06%20at%2016.10.06.png)
 
 ## Installation
 
